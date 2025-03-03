@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Enhancing web projects and sharpening my DSA skills**
 
-- 🌱 I’m currently learning **Advanced web frameworks, algorithm optimization, and emerging**
+- 🌱 I’m currently learning **Backend Development, algorithm optimization, and emerging**
 
 - 👯 I’m looking to collaborate on **Impactful web development projects and open-source contributions**
 
